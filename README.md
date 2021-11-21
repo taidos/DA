@@ -1,7 +1,5 @@
 Author: Nguyen Trung Hau
-
 Email: ken.hdpro@gmail.com
-
 Facebook: (http://fb.com/irf1404 "http://fb.com/irf1404")
 
 # INSTALL DIRECTADMIN
