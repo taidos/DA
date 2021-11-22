@@ -5,7 +5,7 @@ Facebook: http://fb.com/irf1404
 ```
 
 # INSTALL DIRECTADMIN
-(*) PLEASE GO THROUGH THE CONFIGURATION STEPS BEFORE INSTALLATION <b><a href="https://github.com/irf1404/DACONFIG" target="_blank">HERE</a></b>
+(*) PLEASE GO THROUGH THE CONFIGURATION STEPS BEFORE INSTALLATION <b>[HERE](https://github.com/irf1404/DACONFIG){:target="_blank"}</b>
 ```
 # Directadmin 1.630
 yum -y install wget
